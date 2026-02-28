@@ -123,6 +123,9 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Name | Description | Link | Price |
 |---|---|---|--|
 | Datadog | Datadog is a monitoring, security and analytics platform for developers, IT operations teams, security engineers and business users in the cloud age. Datadog's SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of their customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.| https://www.datadoghq.com/ | Paid |
+| TestDino| TestDino is an AI-powered, Playwright-focused test reporting and analytics platform that centralizes CI runs, classifies failures and flaky tests, and turns raw test results into clear, actionable insights for QA teams and developers.| https://testdino.com/ | Paid |
+
+
 
 ## Web3 and Blockchain Testing Tools
 
